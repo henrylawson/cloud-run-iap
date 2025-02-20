@@ -1,2 +1,2 @@
 # cloud-run-iap
-Simple demo of Cloud Run + ILB + IAP
+Simple demo of Cloud Run + GCLB + IAP
